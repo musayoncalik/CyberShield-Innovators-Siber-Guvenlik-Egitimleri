@@ -81,7 +81,7 @@ Sektördeki meslek dalları, CV hazırlama ve sertifikasyonlar hakkında bilgi v
 - Kariyer yol haritası oluşturma
 
 ---
-
+```text
 ## 📁 Proje Yapısı
 CYBERSHIELD_INNOVATORS/
 ├─ Siber Güvenlik Temelleri/
@@ -90,7 +90,7 @@ CYBERSHIELD_INNOVATORS/
 ├─ OSINT/
 ├─ SG Uygulamaları Sunumlar/
 └─ EIT Sanal/ (büyük dosyalar, GitHub dışında paylaşılmalı)
-
+```
 ---
 
 ## ⚙️ Kurulum
