@@ -1,5 +1,4 @@
-# 1️⃣ README.md oluştur
-@"
+
 # CyberShield Innovators 🚀
 **Yeni Nesil Siber Güvenlik Eğitimleri**
 
@@ -113,7 +112,5 @@ git lfs pull
 - Makine öğrenmesi ve AI araçları
 
 
-
-"@ > README.md
 
 
