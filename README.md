@@ -81,8 +81,9 @@ Sektördeki meslek dalları, CV hazırlama ve sertifikasyonlar hakkında bilgi v
 - Kariyer yol haritası oluşturma
 
 ---
-```text
 ## 📁 Proje Yapısı
+
+```text
 CYBERSHIELD_INNOVATORS/
 ├─ Siber Güvenlik Temelleri/
 ├─ Ağ Teknolojiler/
