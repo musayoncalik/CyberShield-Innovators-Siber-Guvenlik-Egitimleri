@@ -1,0 +1,86 @@
+metasploitable
+msfadmin
+msfadmin
+ip a
+
+kali
+setxkbmap tr --> Türkçe klavye yapmak için 
+ping gelen_ip
+
+nmap gelen_ip
+
+map 192.168.88.131 -p-
+
+nmap 192.168.88.131 -p- -sS -sU 
+
+nmap 192.168.88.131 -top-port 100 -sU
+
+nmap 192.168.88.131 -p- -sS -sV
+
+autorecon 192.168.88.131 
+
+
+nc -nvv -w 1 -z 192.168.15.136 400-500
+
+nmap 192.168.88.131 -p- -sS -sV -sC -T4
+
+nmap 192.168.88.131 --script smb-enum-users
+
+nmap 192.168.88.131 --script http-headers  
+
+ftp 192.168.88.131
+
+nessus
+
+
+sudo apt install ./Nessus-10.9.1-ubuntu1604_amd64.deb
+
+systemctl start nessusd.service
+
+systemctl status nessusd.service
+
+systemctl start status nessusd.service
+
+ifconfig 
+
+ip a 
+
+https://localhost:8834/#/
+
+
+
+nessus ekranında offline olmadan continue tıkla
+4.kutucuk Essentials a  seç 
+
+https://localhost:8834/#/ 
+riski kabul et 
+
+kullanıcı adı ve parola belirle ve unutma 
+
+yükleme ekranında nessusu kuruyor 
+
+
+nessus kurulumundan sonraki kodlar
+
+nessusu indir ve indirdiğin klasöre gir
+
+sudo apt install ./Nessus-10.5.0-debian10_amd64.deb
+
+systemctl start nessusd.service
+
+systemctl status nessusd     nessus durumunu kontrol etmek için
+
+
+
+nessusu kaldırıp baştan kuralım o zaman eğer çalışmazsa 
+
+/etc/init.d/nessusd stop
+
+dpkg -r Nessus
+
+rm -rf /opt/nessus
+
+https://www.tenable.com/downloads/nessus?loginAttempted=true
+
+https://localhost:8834/#/scans/folders/my-scans en son burada mı kaldık
+
